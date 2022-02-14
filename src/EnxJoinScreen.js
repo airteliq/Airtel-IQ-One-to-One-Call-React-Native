@@ -310,13 +310,13 @@ const styles = StyleSheet.create({
   }
 });
    /*Your webservice host URL, Keet the defined host when kTry = true */
-  const kBaseURL = "https://api.videoiq.airtel.in/";
+  const kBaseURL = "https://demo.videoiq.airtel.in/";
   /* To try the app with Enablex hosted service you need to set the kTry = true */
   const kTry = true;
   
   /*Use enablex portal to create your app and get these following credentials*/
 
-  const  kAppId = "";
-  const  kAppkey = "";
+  const  kAppId = "app_id";
+  const  kAppkey = "app_key";
 
 

@@ -71,7 +71,7 @@ var kTry = true;
 
 /*Your webservice host URL. Use Airtel IQ host as given below when kTry = true */  
 
-var kBasedURL = "https://demo.Airtel IQ.io/";  
+var kBasedURL = "https://demo.videoiq.airtel.in/";  
 
 /*The following information is required only when kTry = true. Remove these fields if using your own web-service.*/  
 
